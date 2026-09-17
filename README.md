@@ -4,7 +4,6 @@ DVGS: Depth-visibility-constrained Gaussian splatting for joint intensity–dept
 
 Each complete video is followed by three datasets. Each dataset is summarized in one **2-column × 3-row montage**, containing six time-separated paired views. Click a montage for full resolution.
 
-[中文使用说明](DVGS_GitHub/UPLOAD_GUIDE_CN.md) · [Interactive gallery](DVGS_GitHub/index.html)
 
 The figures are direct crops from the supplied videos; no AI enhancement or geometric alteration is applied. All times below refer to the supplied video timeline, not raw sensor timestamps.
 
