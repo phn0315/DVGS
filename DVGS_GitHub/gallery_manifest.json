@@ -1,0 +1,206 @@
+[
+  {
+    "group": "imaging_0706",
+    "dataset": "0706_1",
+    "montage": "assets/montages/imaging_0706_0706_1.jpg",
+    "size": [
+      2934,
+      702
+    ],
+    "times": [
+      5.2,
+      6.0,
+      13.667,
+      17.2,
+      19.6,
+      26.0
+    ]
+  },
+  {
+    "group": "imaging_0706",
+    "dataset": "0706_2",
+    "montage": "assets/montages/imaging_0706_0706_2.jpg",
+    "size": [
+      2934,
+      669
+    ],
+    "times": [
+      5.2,
+      6.0,
+      14.0,
+      14.967,
+      19.6,
+      24.7
+    ]
+  },
+  {
+    "group": "imaging_0706",
+    "dataset": "0706_3",
+    "montage": "assets/montages/imaging_0706_0706_3.jpg",
+    "size": [
+      2934,
+      678
+    ],
+    "times": [
+      2.5,
+      8.4,
+      13.2,
+      18.0,
+      19.6,
+      25.2
+    ]
+  },
+  {
+    "group": "imaging_0718",
+    "dataset": "0718_1",
+    "montage": "assets/montages/imaging_0718_0718_1.jpg",
+    "size": [
+      2934,
+      747
+    ],
+    "times": [
+      7.2,
+      18.0,
+      21.2,
+      35.2,
+      40.6,
+      50.767
+    ]
+  },
+  {
+    "group": "imaging_0718",
+    "dataset": "0718_2",
+    "montage": "assets/montages/imaging_0718_0718_2.jpg",
+    "size": [
+      2934,
+      720
+    ],
+    "times": [
+      3.067,
+      19.3,
+      27.233,
+      30.1,
+      41.533,
+      48.867
+    ]
+  },
+  {
+    "group": "imaging_0718",
+    "dataset": "0718_3",
+    "montage": "assets/montages/imaging_0718_0718_3.jpg",
+    "size": [
+      2934,
+      744
+    ],
+    "times": [
+      6.567,
+      13.267,
+      28.2,
+      31.067,
+      43.467,
+      52.033
+    ]
+  },
+  {
+    "group": "vslam_0718",
+    "dataset": "VSLAM-11",
+    "montage": "assets/montages/vslam_0718_VSLAM-11.jpg",
+    "size": [
+      2934,
+      1302
+    ],
+    "times": [
+      3.405,
+      19.286,
+      27.238,
+      30.414,
+      41.542,
+      48.534
+    ]
+  },
+  {
+    "group": "vslam_0718",
+    "dataset": "VSLAM-22",
+    "montage": "assets/montages/vslam_0718_VSLAM-22.jpg",
+    "size": [
+      2934,
+      1302
+    ],
+    "times": [
+      6.581,
+      17.709,
+      25.638,
+      33.91,
+      42.502,
+      50.454
+    ]
+  },
+  {
+    "group": "vslam_0718",
+    "dataset": "VSLAM-33",
+    "montage": "assets/montages/vslam_0718_VSLAM-33.jpg",
+    "size": [
+      2934,
+      1302
+    ],
+    "times": [
+      9.117,
+      14.533,
+      21.205,
+      35.509,
+      38.686,
+      52.67
+    ]
+  },
+  {
+    "group": "vslam_0706",
+    "dataset": "VSLAM-44",
+    "montage": "assets/montages/vslam_0706_VSLAM-44.jpg",
+    "size": [
+      2934,
+      1302
+    ],
+    "times": [
+      5.671,
+      14.057,
+      17.656,
+      25.314,
+      29.151,
+      40.156
+    ]
+  },
+  {
+    "group": "vslam_0706",
+    "dataset": "VSLAM-55",
+    "montage": "assets/montages/vslam_0706_VSLAM-55.jpg",
+    "size": [
+      2934,
+      1302
+    ],
+    "times": [
+      7.827,
+      11.425,
+      20.526,
+      26.028,
+      32.973,
+      39.204
+    ]
+  },
+  {
+    "group": "vslam_0706",
+    "dataset": "VSLAM-66",
+    "montage": "assets/montages/vslam_0706_VSLAM-66.jpg",
+    "size": [
+      2934,
+      1302
+    ],
+    "times": [
+      5.909,
+      9.031,
+      15.737,
+      25.314,
+      34.415,
+      38.252
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "group": "imaging_0706",
+    "source": "0706_123_1.5x_split_screen.mp4",
+    "fps": 30.0,
+    "frames": 866,
+    "duration": 28.866666666666667,
+    "kind": "imaging",
+    "labels": [
+      "0706_1",
+      "0706_2",
+      "0706_3"
+    ]
+  },
+  {
+    "group": "imaging_0718",
+    "source": "0718_123_split_screen.mp4",
+    "fps": 30.0,
+    "frames": 1723,
+    "duration": 57.43333333333333,
+    "kind": "imaging",
+    "labels": [
+      "0718_1",
+      "0718_2",
+      "0718_3"
+    ]
+  },
+  {
+    "group": "vslam_0718",
+    "source": "0718_123_ORB_incremental_VSLAM_six_way_strict_sync.mp4",
+    "fps": 43.763,
+    "frames": 2513,
+    "duration": 57.4229371843795,
+    "kind": "vslam",
+    "labels": [
+      "VSLAM-11",
+      "VSLAM-22",
+      "VSLAM-33"
+    ]
+  },
+  {
+    "group": "vslam_0706",
+    "source": "0706_456_ORB_incremental_VSLAM_66_video2_strict_sync.mp4",
+    "fps": 71.422,
+    "frames": 3090,
+    "duration": 43.26398028618633,
+    "kind": "vslam",
+    "labels": [
+      "VSLAM-44",
+      "VSLAM-55",
+      "VSLAM-66"
+    ]
+  }
+]
